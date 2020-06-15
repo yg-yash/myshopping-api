@@ -4,7 +4,7 @@
   "description": "a nodejs restful api ",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index"
+    "start": "node src/index.js"
   },
   "author": "Yash Guota",
   "license": "ISC",
